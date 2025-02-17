@@ -7,7 +7,7 @@ This project focuses on analyzing and tracking employee productivity using SQL. 
 - **Data Cleaning & Transformation:** Handled missing values, corrected data types, and ensured data integrity using SQL queries.
 - **Productivity Scoring Model:** Implemented a weighted formula to calculate employee productivity based on multiple performance factors.
 - **Ranking System:** Categorized employees as **High, Moderate, or Low Performers** based on their productivity scores.
-- **Optimized Query Performance:** Used **indexing, CTEs, and efficient SQL queries** to improve query execution speed.
+- **Optimized Query Performance:** Used **indexing and efficient SQL queries** to improve query execution speed.
 - 
 ## 📂 Dataset
 The dataset includes the following key attributes:
